@@ -12,7 +12,7 @@ This project was done with the help/supervision of [Altug Tanaltay](https://tr.l
 ## Frameworks & Tools Used
 ### Back-end
 
-For the server side, I used **Spring Boot** to develop **RESTful Web Service**, along with other open-source APIs including JPARepository. [Spring Boot](https://github.com/spring-projects/spring-boot) is an open source Java-based framework, and is often used to create stand-alone applications/micro-services. 
+For the server side, I used **Spring Boot** to develop **RESTful Web Service**, along with other open-source APIs including JPARepository. Although the backend services was initially developed in a monolithic form, it is currently being changed to a microservice architecture. [Spring Boot](https://github.com/spring-projects/spring-boot) is an open source Java-based framework, and is often used to create stand-alone applications/micro-services. 
 
 ---
 ### Front-end 
