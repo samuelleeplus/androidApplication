@@ -22,9 +22,9 @@ For the graphical user-interface(GUI) development, **Android Studio SDK** was us
 
 Some of the main functionalities of the application includes:
 
-**1. Login/Registration**   
+**1. [Login/Registration](https://github.com/samuelleeplus/androidApp/blob/b3412efc7975fa8413faafc2ee8ce87a594d5830/pictures/login.png?raw=true)**   
 
-<img src="https://github.com/samuelleeplus/androidApp/blob/b3412efc7975fa8413faafc2ee8ce87a594d5830/pictures/login.png" width="350" height="600"> 
+
 
 **2. Listing Restaurants with search functionality (using RecyclerView)** 
 
